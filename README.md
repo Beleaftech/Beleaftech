@@ -21,6 +21,23 @@
 
 Somos uma futura start-up novinha de Belém/PA e por enquanto somos uma equipe de projetos ligada ao [Cesupa](https://www.cesupa.br/), contamos com o seu apoio ;). 
 
+Nosso compromisso é impulsionar o desenvolvimento sustentável e a preservação do ecossistema amazônico, aproveitando seu potencial ecológico para oferecer produtos inovadores. Valorizamos o conhecimento tradicional e a sabedoria das comunidades locais, incorporando esses elementos em nossas soluções tecnológicas, de forma a gerar um impacto positivo em todos os níveis.
+
+Acreditamos que a inovação e a automação não devem ser acessíveis apenas para alguns privilegiados, mas sim para todos. É por isso que nossa equipe talentosa está constantemente trabalhando para desenvolver produtos de alta qualidade a preços acessíveis, permitindo que pessoas de todas as camadas sociais tenham acesso às maravilhas da tecnologia.
+
+## Produtos
+
+- Dispositivos domésticos inteligentes
+- Soluções para pequenas empresas
+- Automação para agricultura local
+
+## Valores
+
+- Desenvolvimento sustentável
+- Preservação do ecossistema amazônico
+- Acessibilidade e baixo custo
+- Parcerias com fornecedores responsáveis
+
 ## Uatumã :herb:
 Abaixo você pode ver nosso comercial do primeiro projeto Beleaf! 
 </br>
