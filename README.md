@@ -25,7 +25,7 @@ Somos uma futura start-up novinha de Belém/PA e por enquanto somos uma equipe d
 Abaixo você pode ver nosso comercial do primeiro projeto Beleaf! 
 </br>
 </br>
-[<img src="https://cdn.discordapp.com/attachments/945453757007818843/1111052134675382332/uatuma_portugues.jpg" width="100%">]([https://www.youtube.com/watch?v=Hc79sDi3f0U](https://www.youtube.com/watch?v=dx569UWe9xk&ab_channel=BeLeaftechnologies) "Uatuma Portuguese")
+[![Uatumã Portuguese](https://i.ytimg.com/vi/dx569UWe9xk/hq720.jpg)](https://www.youtube.com/watch?v=dx569UWe9xk&ab_channel=BeLeaftechnologies "Uatumã Portuguese")
 
 
 
